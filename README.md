@@ -12,111 +12,24 @@ Hi there! I'm a **Data Scientist** with a passion for solving real-world problem
 - 🌱 Currently diving into **Reinforcement Learning** and **Natural Language Processing (NLP)**.
 - 💻 Proficient in **Python**, **R**, and **SQL** for data analysis, manipulation, and model building.
 
----
+### 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-### 🏆 My GitHub Stats:
+### 🖱 Languages and Tools
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanpatil9080&show_icons=true&theme=radical&hide_title=true)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sudoshivesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sudoshivesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-### 🧑‍💻 My Latest Contributions:
+![](https://github-readme-streak-stats.herokuapp.com/?user=sudoshivesh&theme=dark&hide_border=false)<br/>
 
-![Pavan's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=pavanpatil9080&theme=github)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoshivesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-### 📈 Some of My Cool Projects:
-
-- **[Data Science Projects](https://github.com/pavanpatil9080/data-science-projects)**: A collection of my work in data analysis, machine learning models, and advanced statistical techniques.
-- **[Machine Learning Models](https://github.com/pavanpatil9080/ml-models)**: Explore the ML models I've built with Scikit-learn, TensorFlow, and PyTorch.
-- **[NLP Projects](https://github.com/pavanpatil9080/nlp-projects)**: Check out my NLP-driven applications, from sentiment analysis to text classification.
-
----
-
-### 🎮 Fun Animation - "Dragon Eating Code": 🐉🔥
-
-Just for fun, here's a **dragon eating code** animation that symbolizes my journey of digesting algorithms and growing as a data scientist!
-
-![Dragon Eating GIF](https://media.giphy.com/media/3o7aD7u9WJOC9VhjUE/giphy.gif)
-
----
-
-## 💬 Let's Connect:
-- 📧 **Email**: [pavan.patil@example.com](mailto:pavan.patil@example.com)
-- 💼 **LinkedIn**: [Pavan Patil LinkedIn](https://www.linkedin.com/in/pavan-patil)
-- 🐦 **Twitter**: [@PavanPatil_DS](https://twitter.com/PavanPatil_DS)
-- 🌐 **Medium**: [Pavan's Blog](https://medium.com/@pavanpatil)
-
----
-
-### 🛠️ Technologies & Tools I Love:
-
-- **Languages**: 
-    - Python 🐍
-    - R 📊
-    - SQL 📅
-    - JavaScript 🌐
-- **Frameworks & Libraries**:
-    - TensorFlow 🤖
-    - PyTorch 🔥
-    - Scikit-Learn 📊
-    - Pandas, NumPy ⚡
-- **Tools**:
-    - Jupyter Notebooks 📒
-    - Docker 🐳
-    - Git & GitHub 🛠️
-    - AWS, GCP ☁️
-
----
-
-### 🌱 I’m currently learning:
-- Reinforcement Learning 🤖
-- Deep Reinforcement Learning 🌐
-- **Model Deployment**: Building and deploying machine learning models on the cloud.
-
----
-
-### 🎯 My Goals for 2025:
-
-- 🚀 Complete **5+ open-source contributions** related to data science.
-- 📚 Publish at least **2 data science blogs** every month.
-- 🌍 Create **2+ AI-powered applications** with real-world impact.
-
----
-
-## 📊 GitHub Stats & Graph:
-
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanpatil9080&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=radical)
-
----
-
-### 🚀 Let's Collaborate:
-Feel free to reach out if you're working on a **cool data science project**, want to collaborate, or just want to chat about **AI** and **Machine Learning**! 👨‍💻🤖
-
----
-
-### 🧩 Fun Facts About Me:
-- I'm obsessed with **solving puzzles** (and sometimes coding challenges just for fun 🧠).
-- I play **chess** when I’m not working on AI.
-- I love reading books, particularly in the domains of **AI** and **Data Science**.
-
----
-
-## 🌍 Connect with Me:
-- **LinkedIn**: [Pavan Patil](https://www.linkedin.com/in/pavan-patil)
-- **Twitter**: [PavanPatil_DS](https://twitter.com/PavanPatil_DS)
-- **Medium**: [Pavan's Blog](https://medium.com/@pavanpatil)
-
----
-
-## 🚀 Technologies & Tools:
-
-- **Languages**:
-  - Python, R, SQL
-- **Libraries**:
-  - TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy
-- **Tools**:
-  - Git, Docker, Kubernetes, AWS, GCP
-
----
+### 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=sudoshivesh)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+              
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
